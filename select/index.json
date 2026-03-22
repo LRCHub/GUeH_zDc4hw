@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "NEVER AGAIN",
+  "base_artist": "KAT-TUN",
+  "createdAt": "2026-03-22T10:37:19.178982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Again, Again",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/01_Never_Again,_Again_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Again, Again (Album Version)",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/02_Never_Again,_Again_(Album_Version)_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Once & Never Again",
+      "artist": "The Long Blondes",
+      "has_synced": true,
+      "path": "select/03_Once_&_Never_Again_The_Long_Blondes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Once And Never Again",
+      "artist": "The Long Blondes",
+      "has_synced": true,
+      "path": "select/04_Once_And_Never_Again_The_Long_Blondes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Again",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/05_Never_Again_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Again",
+      "artist": "Paradisio",
+      "has_synced": false,
+      "path": "select/06_Never_Again_Paradisio.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Again (The Dancer)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/07_Never_Again_(The_Dancer)_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Again (The Dancer) - 12\" Dance Mix",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/08_Never_Again_(The_Dancer)_-_12__Dance_Mix_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Again (The Dancer) - 7\" Version",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/09_Never_Again_(The_Dancer)_-_7__Version_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Say Never Again",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/10_Never_Say_Never_Again_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Say Never Again [Alternate Mix]",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/11_Never_Say_Never_Again_[Alternate_Mix]_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Say Never Again (alternate mix)",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/12_Never_Say_Never_Again_(alternate_mix)_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Again",
+      "artist": "The Human League",
+      "has_synced": true,
+      "path": "select/13_Never_Again_The_Human_League.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Again (The Dancer) (dance mix)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/14_Never_Again_(The_Dancer)_(dance_mix)_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Again (The Dancer) (7″ version)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/15_Never_Again_(The_Dancer)_(7′′_version)_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NEVER AGAIN",
+      "artist": "Loudness",
+      "has_synced": true,
+      "path": "select/16_NEVER_AGAIN_Loudness.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Again",
+      "artist": "Hannah Diamond",
+      "has_synced": true,
+      "path": "select/17_Never_Again_Hannah_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Never Again",
+      "artist": "Alastis",
+      "has_synced": true,
+      "path": "select/18_Never_Again_Alastis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEVER AGAIN",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_01_NEVER_AGAIN_KAT-TUN.txt"
+    }
+  ]
+}
